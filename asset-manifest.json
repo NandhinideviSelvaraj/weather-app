@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NandhinideviSelvaraj/weather-app/static/css/main.1db39041.css",
+    "main.js": "/NandhinideviSelvaraj/weather-app/static/js/main.084661ee.js",
+    "static/js/787.2a38e5c6.chunk.js": "/NandhinideviSelvaraj/weather-app/static/js/787.2a38e5c6.chunk.js",
+    "index.html": "/NandhinideviSelvaraj/weather-app/index.html",
+    "main.1db39041.css.map": "/NandhinideviSelvaraj/weather-app/static/css/main.1db39041.css.map",
+    "main.084661ee.js.map": "/NandhinideviSelvaraj/weather-app/static/js/main.084661ee.js.map",
+    "787.2a38e5c6.chunk.js.map": "/NandhinideviSelvaraj/weather-app/static/js/787.2a38e5c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db39041.css",
+    "static/js/main.084661ee.js"
+  ]
+}
